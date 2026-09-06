@@ -3,7 +3,6 @@
 An AWS reference architecture that protects a private source-code repository against the case where a legitimate developer's credentials or session have been compromised.
 
 ![Architecture diagram](./diagram.png)
-*(Replace `diagram.png` with your architecture diagram, committed to the repo root.)*
 
 ## Problem being solved
 
